@@ -84,8 +84,7 @@ int main()
 }  
   
 /*OUTPUT
-C:\Users\Admin\Downloads\DAA Codes>g++ warshall.cpp
-C:\Users\Admin\Downloads\DAA Codes>a
+
 The graph is (D0) :
 0       5       INF     INF
 50      0       15      5
